@@ -49,4 +49,5 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/jksiddarth/jksiddarth/output/snake.svg" alt="Snake animation" />
 
