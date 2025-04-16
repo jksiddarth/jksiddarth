@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd652edf-dbae-4e90-9fec-f78b7689e078)<h1 align="center">Hi 👋, I'm jksiddarth</h1>
+<h1 align="center">Hi 👋, I'm jksiddarth</h1>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
