@@ -6,9 +6,9 @@
 
 <h3 align="center">🚀 A passionate Engineer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jksiddarth&label=Profile%20views&color=0e75b6&style=flat" alt="jksiddarth" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jksiddarth/count.svg?"  />
+</div>
 
 - 🔭 I’m currently working on **Brain-MRI-Augmentation-Using-GAN**  
 - 🌱 I’m currently learning **React.js**  
