@@ -46,5 +46,4 @@
 ---
 
 ### 🐍 Watch my contributions graph get eaten by a snake 🐍
-
-![snake gif](https://github.com/jksiddarth/jksiddarth/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jksiddarth/jksiddarth/output/snake.svg" alt="Snake animation" />
