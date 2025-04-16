@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm jksiddarth</h1>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h3 align="center">🚀 A passionate Engineer from India</h3>
 
 <p align="left">
